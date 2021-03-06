@@ -49,7 +49,33 @@ be easy to navigate to the information I need.
 These wireframes were created using [Balsamiq](https://balsamiq.com/) during the Scope Plane 
 part of the design and planning process for this project. 
 
-- [Home](link here)
+
+
+<div align="center">
+    <img src="https://i.ibb.co/brrrLZy/Home.png"/>
+</div>
+
+<div align="center">
+    <img src="https://i.ibb.co/XpwPQ93/Skincare.png"/>
+</div>
+
+<div align="center">
+    <img src="https://i.ibb.co/3TQNPr4/Diet.png"/>
+</div>
+
+<div align="center">
+    <img src="https://i.ibb.co/0Mg2nFj/Allergies.png"/>
+</div>
+
+<div align="center">
+    <img src="https://i.ibb.co/mq0wJYS/Meal-Plans.png"/>
+</div>
+
+<div align="center">
+    <img src="https://i.ibb.co/kJVLWZW/Routine.png"/>
+</div>
+
+
   
 
 ### Fonts
