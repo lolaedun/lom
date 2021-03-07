@@ -51,28 +51,33 @@ part of the design and planning process for this project.
 
 
 
+
+
+
+
+
 <div align="center">
-    <img src="https://i.ibb.co/brrrLZy/Home.png"/>
+    <img src="https://i.ibb.co/wsH6L94/Home.png"/>
 </div>
 
 <div align="center">
-    <img src="https://i.ibb.co/XpwPQ93/Skincare.png"/>
+    <img src="https://i.ibb.co/myQS9v1/Skincare.png"/>
 </div>
 
 <div align="center">
-    <img src="https://i.ibb.co/3TQNPr4/Diet.png"/>
+    <img src="https://i.ibb.co/cxN5X16/Diet.png"/>
 </div>
 
 <div align="center">
-    <img src="https://i.ibb.co/0Mg2nFj/Allergies.png"/>
+    <img src="https://i.ibb.co/gdcZGQf/Allergies.png"/>
 </div>
 
 <div align="center">
-    <img src="https://i.ibb.co/mq0wJYS/Meal-Plans.png"/>
+    <img src="https://i.ibb.co/cNsKHV4/Meal-Plans.png"/>
 </div>
 
 <div align="center">
-    <img src="https://i.ibb.co/kJVLWZW/Routine.png"/>
+    <img src="https://i.ibb.co/vDhMPbX/Routine.png"/>
 </div>
 
 
@@ -80,17 +85,22 @@ part of the design and planning process for this project.
 
 ### Fonts
 
-- Insert primary font here
-- Insert secondary font here
+- Merriweather as the headline text and Special Elite as body text. I particularly like the vintage
+typewriter look  for the body
+
+
 
 ### Icons
 
-- Insert any icons here
+- coffee stains and parchment paper
 
 ### Colours
 
-- Insert hex codes for color choices and a snapshot image of color palette
+- Parchment paper and coffee stains look.
 
+<div align="center">
+    <img src="https://i.ibb.co/8bZhcgC/Little-Ones-Manual.png"/>
+</div>
 
 ## Features
 
