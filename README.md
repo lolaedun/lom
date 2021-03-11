@@ -102,27 +102,42 @@ typewriter look  for the body
     <img src="https://i.ibb.co/8bZhcgC/Little-Ones-Manual.png"/>
 </div>
 
-## Features
-
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
+# Features
  
-### Existing Features
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
-- ...
+## Existing Features
 
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
+### Elements on every page
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+#### Navbar:
+
+- The navigation bar features a logo on the far left, which links to the home page of the site.
+
+#### Footer
+
+info to be added at a later stage
+
+### Home Page
+
+info to be added at a later stage
 
 ### Features Left to Implement
 - Another feature idea
 
 ## Technologies Used
 
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
+- [Git](https://gist.github.com/derhuerst/1b15ff4652a867391f03) to handle version control.
+- [GitHub](https://github.com/) to store and share all project code remotely.
+- [Imgbb](https://imgbb.com) to store external images for this project that were not entered into the database.
+- [Balsamiq](https://balsamiq.com/) to create the wireframes for this project.
 
-- [JQuery](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
+### Libraries
+
+- [Bootstrap](https://www.bootstrapcdn.com/) to simplify the structure of the website and make the website responsive easily.
+- [FontAwesome](https://www.bootstrapcdn.com/fontawesome/) to provide icons for The House of Mouse webshop.
+- [Google Fonts](https://fonts.google.com/) to style the website fonts.
+
+### Languages
+- This project uses HTML, CSS and JavaScript programming languages.
 
 
 ## Testing
