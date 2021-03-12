@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Special+Elite&display=swap');
+
+header {
+
+   
+    font-family: "Special Elite";
+}
+
+.logo {
+    
+    
+    font-size: 80px;
+    
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+
+
+}
+.navbar-nav {
+    padding-left: 80px;
+    
+}
