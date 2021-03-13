@@ -6,6 +6,19 @@ header {
     font-family: "Special Elite";
 }
 
+.navbar-brand {
+
+    max-height: 80px;
+    padding: 0px;
+}
+
+.navbar-text {
+    font-weight: 900;
+    font-size: 30px;
+
+}
+
+
 .logo {
     
     
@@ -17,7 +30,5 @@ header {
 
 
 }
-.navbar-nav {
-    padding-left: 80px;
-    
-}
+
+  
