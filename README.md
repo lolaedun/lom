@@ -94,12 +94,12 @@ typewriter look  for the body
 
 - coffee stains and parchment paper
 
-### Colours and Mockups
+### Colours Mood board and Mockups
 
 - Vintage, Parchment paper and coffee stains look.
 
 <div align="center">
-    <img src="https://i.ibb.co/8bZhcgC/Little-Ones-Manual.png"/>
+    <img src="https://i.ibb.co/JQBVhm1/LOM-moodboard.png"/>
 </div>
 
 <div align="center">
