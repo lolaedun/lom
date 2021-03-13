@@ -103,7 +103,7 @@ typewriter look  for the body
 </div>
 
 <div align="center">
-    <img src="https://i.ibb.co/SJgYGPG/Home-Page-Quick-Guide-Mock-up.png"/>
+    <img src="https://i.ibb.co/PMvFfqQ/Lom-homepage-mockup.png"/>
 </div>
 
 
