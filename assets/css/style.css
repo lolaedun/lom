@@ -22,8 +22,7 @@ header {
 .logo {
     
     
-    font-size: 80px;
-    
+    font-size: 80px;   
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
