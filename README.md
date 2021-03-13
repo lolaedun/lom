@@ -94,13 +94,19 @@ typewriter look  for the body
 
 - coffee stains and parchment paper
 
-### Colours
+### Colours and Mockups
 
-- Parchment paper and coffee stains look.
+- Vintage, Parchment paper and coffee stains look.
 
 <div align="center">
     <img src="https://i.ibb.co/8bZhcgC/Little-Ones-Manual.png"/>
 </div>
+
+<div align="center">
+    <img src="https://i.ibb.co/SJgYGPG/Home-Page-Quick-Guide-Mock-up.png"/>
+</div>
+
+
 
 # Features
  
@@ -176,6 +182,12 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 ### Content
 - The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+
+insipiring websites
+ https://dunderville.se/
+ http://www.dollardreadful.com/
+ https://web.archive.org/web/20200806005022/http://www.sprockethouse.com/
+ https://www.kultika.de/kartenlegen.html
 
 ### Media
 - The photos used in this site were obtained from ...
