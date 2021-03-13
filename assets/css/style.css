@@ -1,5 +1,26 @@
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Special+Elite&display=swap');
 
+/* .........................................Colours */
+
+body {
+
+    background-color: #D7CBBD;
+}
+.img-thumbnail {
+
+    background-color: #D7CBBD;
+}
+
+
+
+
+
+
+
+
+
+
+/* .........................................Nav Bar */
 header {
 
    
@@ -29,5 +50,27 @@ header {
 
 
 }
+
+/* .........................................Body */
+
+
+.main-body {
+
+    font-family: "Special Elite" , sans-serif;
+    text-align: center;
+    margin-top: 8%;
+}
+
+.main-body h3 {
+
+    font-family: "Merriweather" , sans-serif;
+}
+
+.card-title {
+    
+    margin-top: 40%;
+}
+
+
 
   
