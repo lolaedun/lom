@@ -106,6 +106,9 @@ typewriter look  for the body
     <img src="https://i.ibb.co/PMvFfqQ/Lom-homepage-mockup.png"/>
 </div>
 
+<div align="center">
+    <img src="https://i.ibb.co/VHgchzS/skincare-mockup-page.png"/>
+</div>
 
 
 # Features
