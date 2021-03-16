@@ -85,6 +85,19 @@ h1{
     font-family: "Merriweather", sans-serif;
 }
 
+.skincare-background{
 
+    background-image: url("../images/skincare-background-pg.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
 
   
