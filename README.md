@@ -4,6 +4,7 @@
  
  A manual for nannies, school carers, dad and anyone looking after my little human.
  
+ You can view the live website here: https://lolaedun.github.io/lom/
 
 # UX
 
@@ -110,6 +111,12 @@ typewriter look  for the body
     <img src="https://i.ibb.co/VHgchzS/skincare-mockup-page.png"/>
 </div>
 
+<div align="center">
+    <img src="https://i.ibb.co/NmxPwJ7/current-foods.png"/>
+</div>
+
+
+
 
 # Features
  
@@ -142,8 +149,9 @@ info to be added at a later stage
 ### Libraries
 
 - [Bootstrap](https://www.bootstrapcdn.com/) to simplify the structure of the website and make the website responsive easily.
-- [FontAwesome](https://www.bootstrapcdn.com/fontawesome/) to provide icons for The House of Mouse webshop.
+- [FontAwesome](https://www.bootstrapcdn.com/fontawesome/) to provide icons for the website.
 - [Google Fonts](https://fonts.google.com/) to style the website fonts.
+- [Canva](https://www.canva.com/) to design elements for the website.
 
 ### Languages
 - This project uses HTML, CSS and JavaScript programming languages.
