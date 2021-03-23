@@ -115,6 +115,12 @@ typewriter look  for the body
     <img src="https://i.ibb.co/NmxPwJ7/current-foods.png"/>
 </div>
 
+<div align="center">
+    <img src="https://i.ibb.co/0M2dW1w/sample-meal-plan.png/>
+</div>
+
+
+
 
 
 
