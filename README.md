@@ -116,7 +116,7 @@ typewriter look  for the body
 </div>
 
 <div align="center">
-    <img src="https://i.ibb.co/0M2dW1w/sample-meal-plan.png/>
+    <img src="https://i.ibb.co/0M2dW1w/sample-meal-plan.png"/>
 </div>
 
 
