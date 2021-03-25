@@ -119,6 +119,10 @@ typewriter look  for the body
     <img src="https://i.ibb.co/0M2dW1w/sample-meal-plan.png"/>
 </div>
 
+<div align="center">
+    <img src="https://i.ibb.co/KW1Bsr6/sample-routine.png"/>
+</div>
+
 
 
 
@@ -151,6 +155,7 @@ info to be added at a later stage
 - [GitHub](https://github.com/) to store and share all project code remotely.
 - [Imgbb](https://imgbb.com) to store external images for this project that were not entered into the database.
 - [Balsamiq](https://balsamiq.com/) to create the wireframes for this project.
+- [Google Docs](https://docs.google.com//) excel to create sample tables with data.
 
 ### Libraries
 
