@@ -1,10 +1,33 @@
-# Little Ones Manual
+ # **Little Ones Manual**
 
- A mock up for the website will be inserted here using ami.responsivedesign.is
- 
- A manual for nannies, school carers, dad and anyone looking after my little human.
- 
- You can view the live website here: https://lolaedun.github.io/lom/
+![Mock up](wireframes/mock-up.png)
+
+
+## **Goal for this project**
+
+Have you ever been nervous about handing your child over to someone to look after especially when your child has
+medical needs and suffers from severe allergies and skin conditions?
+
+Are you getting lots of phone calls and messages about whether it's ok for your child to take part 
+in certain activities or eat certain foods?
+
+What if your child has an allergic reaction and you're not around to care for them... Where and How do you 
+relay all this important information?
+
+The Little Ones Manual is an example of how to put all this information together so everyone is on the 
+same page about looking after your little one. 
+Instead writing down all the information about what to do on paper, text messages and phone calls
+you can use the Little Ones Manual to keep it all in once place. 
+
+Next time you get a phone call or text message, you can easily refer them to your little ones manual and 
+finally be able to answer all those repetitive questions you keep getting asked!
+
+
+
+Thank you for visiting my project!  
+If you have any feedback or questions, head over to my GitHub contact details and feel free to reach out to me.
+
+You can view the live website here: https://lolaedun.github.io/lom/
 
 # UX
 
