@@ -79,7 +79,7 @@ to make it easier to access information quickly.
 
 ### Tablet Wireframe
 <div align="center">
-    <img src="https://i.ibb.co/kmdJ97n/Tablet-LOM.png" width="450"/>
+    <img src="https://i.ibb.co/kmdJ97n/Tablet-LOM.png" width="550"/>
 </div>
 
 
