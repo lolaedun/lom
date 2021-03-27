@@ -67,9 +67,15 @@ You can view the live website here: https://lolaedun.github.io/lom/
 ## Wireframes
 
 These wireframes were created using [Balsamiq](https://balsamiq.com/) during the Scope Plane 
-part of the design and planning process for this project. 
+part of the design and planning process for this project. I have decided to go for a 1 page website
+to make it easier to access information quickly.
 
 
+Mobile Wireframe
+
+<div align="center">
+    <img src="https://i.ibb.co/FBvX138/Mobile-LOM.png"/>
+</div>
 
 
 
