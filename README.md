@@ -57,25 +57,12 @@ You can view the live website here: https://lolaedun.github.io/lom/
 
 <a></a>
 
+### **Site owners Goals**
+* To have an appealing website that provides enough information to any carer looking after the little one.
+* To have a great functionality so the user feels like this website helps them in maintaining consistency with the little ones routine and care. 
+* To make sure everybody is on the same page so we can avoid extreme skin reactions.
 
 
-### Creators Goals
-
-The Goals of the creator are:
-- Provide enough information to whoever is looking after the little one to feel confident 
-in his care.
-- Create consistency in his routine and care.
-- Feel a sense of reassurance that the little one is being looked after in a way
-that feels reassuring to both the little one and his primary carer.
-
-## User Stories
-
-As a visitor to The Little Ones Manual website I expect/want/need:
-
-1. To easily find what I am looking for, I want the layout of the site to 
-be easy to navigate to the information I need.
-
-1. To search for what I am unsure about in the search bar using keywords.
 
 ## Wireframes
 
