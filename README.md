@@ -74,7 +74,7 @@ to make it easier to access information quickly.
 Mobile Wireframe
 
 <div align="center">
-    <img src="https://i.ibb.co/FBvX138/Mobile-LOM.png"/>
+    <img src="https://i.ibb.co/FBvX138/Mobile-LOM.png" width="450"/>
 </div>
 
 
