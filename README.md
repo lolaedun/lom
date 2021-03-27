@@ -71,14 +71,16 @@ part of the design and planning process for this project. I have decided to go f
 to make it easier to access information quickly.
 
 
-Mobile Wireframe
+### Mobile Wireframe
 
 <div align="center">
     <img src="https://i.ibb.co/FBvX138/Mobile-LOM.png" width="450"/>
 </div>
 
-
-
+### Tablet Wireframe
+<div align="center">
+    <img src="https://i.ibb.co/kmdJ97n/Tablet-LOM.png" width="450"/>
+</div>
 
 
 
