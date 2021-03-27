@@ -29,26 +29,35 @@ If you have any feedback or questions, head over to my GitHub contact details an
 
 You can view the live website here: https://lolaedun.github.io/lom/
 
-# UX
 
-## Goals
+--- 
 
-### Visitor Goals
+<a name="ux"></a>
 
-The central target audience for Little ones manual are:
-- Anyone who is looking after my little one e.g family members or hired help or school
+## **UX**
 
-User goals are:
-- Find out if it's ok to give the little one a certain food item.
-- Find ideas on meals to make him.
-- Follow his routine to keep consistency with his care.
-- Understand how to look after his skin and manage flare ups.
-- Have a reference for anytime there is uncertainty about his care.
+<a></a>
 
-The Little Ones Manual is a great way to meet these needs because:
-- All the information that the carer needs is available and easy to find.
-- The website can be searched using text search, making it easy for 
-carers to acces specific information.
+### **User Goals**
+
+* The website has to work well on all kind of devices like mobile phones, tables and desktops.
+* The website has to be easy to use and quick access to information
+* Visually appealing website
+
+<a></a>
+
+### **User Stories**
+
+* As a user, I would like to find out if it's ok to give the little one a certain food item.
+* As a user, I want to find ideas on meals I can make because of allergies.
+* As a user, I would like to follow the daily routine to maintain consistency.
+* As a user, I would like to gain a quick understanding of how to look after severe eczema and manage flare ups.
+* As a user, I want to be able to have a point of reference for anytime there is uncertainty about caring for the little one.
+
+
+<a></a>
+
+
 
 ### Creators Goals
 
