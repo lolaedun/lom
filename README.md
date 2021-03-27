@@ -82,35 +82,12 @@ to make it easier to access information quickly.
     <img src="https://i.ibb.co/kmdJ97n/Tablet-LOM.png" width="550"/>
 </div>
 
-
-
+### Desktop Wireframe
 <div align="center">
-    <img src="https://i.ibb.co/wsH6L94/Home.png"/>
+    <img src="https://i.ibb.co/6bcH0Jq/Desktop-LOM.png"/>
 </div>
 
-<div align="center">
-    <img src="https://i.ibb.co/myQS9v1/Skincare.png"/>
-</div>
-
-<div align="center">
-    <img src="https://i.ibb.co/cxN5X16/Diet.png"/>
-</div>
-
-<div align="center">
-    <img src="https://i.ibb.co/gdcZGQf/Allergies.png"/>
-</div>
-
-<div align="center">
-    <img src="https://i.ibb.co/cNsKHV4/Meal-Plans.png"/>
-</div>
-
-<div align="center">
-    <img src="https://i.ibb.co/vDhMPbX/Routine.png"/>
-</div>
-
-
-  
-
+ 
 ### Fonts
 
 - Merriweather as the headline text and Special Elite as body text. I particularly like the vintage
@@ -137,23 +114,6 @@ typewriter look  for the body
 <div align="center">
     <img src="https://i.ibb.co/VHgchzS/skincare-mockup-page.png"/>
 </div>
-
-<div align="center">
-    <img src="https://i.ibb.co/NmxPwJ7/current-foods.png"/>
-</div>
-
-<div align="center">
-    <img src="https://i.ibb.co/0M2dW1w/sample-meal-plan.png"/>
-</div>
-
-<div align="center">
-    <img src="https://i.ibb.co/KW1Bsr6/sample-routine.png"/>
-</div>
-
-
-
-
-
 
 # Features
  
