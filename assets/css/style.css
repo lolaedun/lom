@@ -57,7 +57,7 @@ header {
 
 }
 
-/* .........................................Body */
+/* .........................................Main Body */
 
 
 h1{
@@ -75,7 +75,7 @@ h1{
 
 
 
-.card-title {
+.main-body-title {
     font-family: "Special Elite" , sans-serif;;
     margin-top: 90%;
 }
@@ -100,4 +100,5 @@ h1{
   transform: translate(-50%, -50%);
 }
 
-  
+/* .........................................Skincare */
+
