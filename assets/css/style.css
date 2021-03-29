@@ -102,13 +102,7 @@ h1{
     font-family: "Merriweather", sans-serif;
 }
 
-.skincare-background{
 
-    background-image: url("../images/skincare-background-pg.png");
-    background-repeat: no-repeat;
-    background-size: contain;
-    
-}
 
 .centered {
   position: absolute;
@@ -119,3 +113,9 @@ h1{
 
 /* .........................................Skincare */
 
+.skincare-background{
+
+    background-image: url("../images/Elements/skincare-bg.png");  
+    background-size: 100% 100%;
+    
+}
