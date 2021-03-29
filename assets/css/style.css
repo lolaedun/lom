@@ -17,6 +17,18 @@ body {
     background-color: #D7CBBD;
 }
 
+/* .........................................Fonts */
+
+body {
+
+    font-family: "Special Elite", sans-serif;
+}
+
+h2 {
+
+    font-family: "Merriweather", sans-serif;
+}
+
 
 
 
@@ -58,6 +70,11 @@ header {
 }
 
 /* .........................................Main Body */
+
+.card {
+
+    border: 0px;
+}
 
 
 h1{
