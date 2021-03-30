@@ -120,7 +120,14 @@ h1{
     
 }
 
+/* .........................................Safe Foods */
+
 .veg-group {
 
     background-color: #c5d9a5;
+}
+
+.fruit-group {
+
+    background-color:#e3a479;
 }
