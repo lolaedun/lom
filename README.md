@@ -114,6 +114,11 @@ I have implemented the scroll spy option from bootstrap to help the user navigat
 For this to work properly I have fixed the navbar on the top of the page.
 The navigation bar features a logo on the far left, which links to the home page of the site.
 
+#### Home Section
+
+I have decided to add 3 main section cards with buttons which spreads over 100% width of the screen. 
+The 3 buttons link to the corresponding sections on the webpage
+The cards respond well when viewing on desktop, tablet and mobile.
 
 #### Footer
 
