@@ -32,11 +32,9 @@ You can view the live website here: https://lolaedun.github.io/lom/
 
 --- 
 
-<a name="ux"></a>
+
 
 ## **UX**
-
-<a></a>
 
 ### **User Goals**
 
@@ -44,7 +42,7 @@ You can view the live website here: https://lolaedun.github.io/lom/
 * The website has to be easy to use and quick access to information
 * Visually appealing website
 
-<a></a>
+
 
 ### **User Stories**
 
@@ -55,7 +53,7 @@ You can view the live website here: https://lolaedun.github.io/lom/
 * As a user, I want to be able to have a point of reference for anytime there is uncertainty about caring for the little one.
 
 
-<a></a>
+
 
 ### **Site owners Goals**
 * To have an appealing website that provides enough information to any carer looking after the little one.
