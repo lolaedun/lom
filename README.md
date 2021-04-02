@@ -214,4 +214,14 @@ I have used [Canva](https://www.canva.com/) to create all my images and graphics
 
 ### Acknowledgements
 
-- I received inspiration for this project from X
+First of all, I would like to thank my lovely mentor Simen ([Eventyret_mentor](https://github.com/Eventyret)) for guiding me throughout this project. 
+He helped me to make my project a breeze to achieve. 
+He gave me a lot of tips in order to improve my code and to implement some other features in order to make my website more user friendly. 
+
+
+I would also like to thank my wonderful little human for inspiring me to make this website for him.
+
+I want to thank our Slack community as well. Whenever I had a doubt, I did some research on Slack and I always found someone who has the same issue as I did. 
+This helped me a lot to get to the solution sooner. 
+
+ 
