@@ -120,9 +120,10 @@ I have decided to add 3 main section cards with buttons which spreads over 100% 
 The 3 buttons link to the corresponding sections on the webpage
 The cards respond well when viewing on desktop, tablet and mobile.
 
-#### Footer
+#### Skincare Section
 
-info to be added at a later stage
+Here I used the grid from bootstrap to create 5 different lists to make it easier to read the 
+information quickly and easily.
 
 ### Home Page
 
