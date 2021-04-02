@@ -106,9 +106,14 @@ typewriter look  for the body
 
 ### Elements on every page
 
-#### Navbar:
 
-- The navigation bar features a logo on the far left, which links to the home page of the site.
+#### Navigation
+For the navbar I have used Boostrap to create a responsive navbar. 
+There is a hamburger icon for mobile devices to make it more user-friendly. 
+I have implemented the scroll spy option from bootstrap to help the user navigate easily to each section of the page. 
+For this to work properly I have fixed the navbar on the top of the page.
+The navigation bar features a logo on the far left, which links to the home page of the site.
+
 
 #### Footer
 
