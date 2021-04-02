@@ -195,14 +195,30 @@ To run the project locally:
 
 ## Credits
 
+### Content - Media - Inspiration
+
+I have used the following websites to gather ideas and information for the overall content of my website: 
+
+* [Dunderville](https://dunderville.se/)
+
+* [Dollar Dreadful](http://www.dollardreadful.com/)
+
+* [Sprocket House](https://web.archive.org/web/20200806005022/http://www.sprockethouse.com/)
+
+* [Kultika](https://www.kultika.de/kartenlegen.html)
+
+ 
+
+I have used [Canva](https://www.canva.com/) to create all my images and graphics.
+
 ### Content
 - The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
 
 insipiring websites
- https://dunderville.se/
- http://www.dollardreadful.com/
- https://web.archive.org/web/20200806005022/http://www.sprockethouse.com/
- https://www.kultika.de/kartenlegen.html
+ 
+ 
+ 
+ 
 
 ### Media
 - The photos used in this site were obtained from ...
