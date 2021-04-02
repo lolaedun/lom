@@ -145,7 +145,10 @@ more legible and quick to grasp the information.
 Here I have used flexbox from bootstrap to create the 3 sections so they are mobile responsive.
 
 ### Features Left to Implement
-- Another feature idea
+- search bar 
+- contact form
+- downloadable allergy tests
+- users to easily contribute to and update content
 
 ## Technologies Used
 
