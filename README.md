@@ -68,22 +68,16 @@ These wireframes were created using [Balsamiq](https://balsamiq.com/) during the
 part of the design and planning process for this project. I have decided to go for a 1 page website
 to make it easier to access information quickly.
 
+You can find my wireframes below:
 
-### Mobile Wireframe
+### [Desktop Wireframe](wireframes/Desktop-LOM.png)
 
-<div align="center">
-    <img src="https://i.ibb.co/FBvX138/Mobile-LOM.png" width="450"/>
-</div>
+### [Tablet Wireframe](wireframes/Tablet-LOM.png)
 
-### Tablet Wireframe
-<div align="center">
-    <img src="https://i.ibb.co/kmdJ97n/Tablet-LOM.png" width="550"/>
-</div>
+### [Mobile Wireframe](wireframes/Mobile-LOM.png)
 
-### Desktop Wireframe
-<div align="center">
-    <img src="https://i.ibb.co/6bcH0Jq/Desktop-LOM.png"/>
-</div>
+
+
 
  
 ### Fonts
