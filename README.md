@@ -125,9 +125,12 @@ The cards respond well when viewing on desktop, tablet and mobile.
 Here I used the grid from bootstrap to create 5 different lists to make it easier to read the 
 information quickly and easily.
 
-### Home Page
+#### Safe Foods Section
 
-info to be added at a later stage
+Here I also worked with the grid from bootstrap to create a different set of lists which interact
+with the user when hovering over the food items. I have removed the effect on hover that gives
+the user the impression that it's clickable in order to avoid confusion. I have also styled
+the food groups into different colours to make it easier to quickly identify them.
 
 ### Features Left to Implement
 - Another feature idea
