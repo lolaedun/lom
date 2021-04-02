@@ -211,17 +211,6 @@ I have used the following websites to gather ideas and information for the overa
 
 I have used [Canva](https://www.canva.com/) to create all my images and graphics.
 
-### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
-
-insipiring websites
- 
- 
- 
- 
-
-### Media
-- The photos used in this site were obtained from ...
 
 ### Acknowledgements
 
