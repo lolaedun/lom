@@ -140,6 +140,10 @@ Initially there was a hover effect on the meal plan but this has been taken out 
 an unneccessary distraction for the user. The striped rows on their own make the meal plan
 more legible and quick to grasp the information.
 
+#### Sample Routine Section
+
+Here I have used flexbox from bootstrap to create the 3 sections so they are mobile responsive.
+
 ### Features Left to Implement
 - Another feature idea
 
