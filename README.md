@@ -132,6 +132,14 @@ with the user when hovering over the food items. I have removed the effect on ho
 the user the impression that it's clickable in order to avoid confusion. I have also styled
 the food groups into different colours to make it easier to quickly identify them.
 
+#### Sample Meal Plan Section
+
+I have purposely left this background colour the same as the safe foods section to demonstrate
+they both fall under the diet part of the webpage. This makes the information more easy to understand.
+Initially there was a hover effect on the meal plan but this has been taken out as it became
+an unneccessary distraction for the user. The striped rows on their own make the meal plan
+more legible and quick to grasp the information.
+
 ### Features Left to Implement
 - Another feature idea
 
