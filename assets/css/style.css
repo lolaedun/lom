@@ -115,8 +115,12 @@ h1{
 
 .skincare-background{
 
-    background-image: url("../images/Elements/skincare-bg.png");  
-    background-size: 100% 100%;
+    background-image: url("../images/Elements/skincare-bg.png");
+    
+    background-position: relative;
+    background-repeat: no-repeat;
+    background-size: cover; 
+   
     
 }
 
