@@ -95,17 +95,10 @@ typewriter look  for the body
 
 - Vintage, Parchment paper and coffee stains look.
 
-<div align="center">
-    <img src="https://i.ibb.co/JQBVhm1/LOM-moodboard.png"/>
-</div>
+![Mood board](wireframes/LOM-moodboard.png)
+![Homepage mockup](wireframes/Lom-homepage-mockup.png)
+![Skincare mockup](wireframes/skincare-mockup-page.png)
 
-<div align="center">
-    <img src="https://i.ibb.co/PMvFfqQ/Lom-homepage-mockup.png"/>
-</div>
-
-<div align="center">
-    <img src="https://i.ibb.co/VHgchzS/skincare-mockup-page.png"/>
-</div>
 
 # Features
  
