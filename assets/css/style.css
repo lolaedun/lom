@@ -149,6 +149,11 @@ h1{
     padding-left: 40px;
 }
 
+#skincare {
+
+    margin-top: 50px;
+}
+
 /* .........................................Safe Foods */
 
 
@@ -211,4 +216,9 @@ h1{
 
     background-color: #a3b19c;
     
+}
+
+#safefoods{
+
+    margin: 50px;
 }
