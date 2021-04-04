@@ -225,3 +225,12 @@ h1{
 
     margin: 50px;
 }
+/* .........................................Routine */
+
+.routine-lists {
+
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+
+}
