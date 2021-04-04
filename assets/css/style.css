@@ -215,17 +215,18 @@ h1{
 
 }
 
-.routine {
-
-    background-color: #a3b19c;
-    
-}
-
 #safefoods{
 
     margin: 50px;
 }
 /* .........................................Routine */
+
+.routine {
+
+    background-color: #a3b19c;
+    padding: 40px; 
+    
+}
 
 .routine-lists {
 
