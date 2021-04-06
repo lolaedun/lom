@@ -1,10 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Special+Elite&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Special+Elite&display=swap');  
 
 html{
 
     scroll-behavior: smooth;
 }
-
 
 
 
@@ -151,7 +150,9 @@ h1{
 
     font-family: "Merriweather" , sans-serif;
     text-align: center;
-    margin-top: 8%;
+    padding: 40px;
+    margin-top: 140px;
+    
 }
 
 
