@@ -5,6 +5,10 @@ html{
     scroll-behavior: smooth;
 }
 
+li{
+        cursor: pointer;
+    }
+
 
 
 
@@ -217,6 +221,8 @@ h1{
 }
 
 /* .........................................Safe Foods */
+
+
 
 
 #safefoods{
