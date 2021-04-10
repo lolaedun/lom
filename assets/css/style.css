@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Special+Elite&display=swap');
+
 html {
   scroll-behavior: smooth;
 }
@@ -183,4 +184,20 @@ h4 {
 
 .routine-lists li {
   padding: 5px;
+}
+
+@media (max-width: 768px) {
+  .routine-btn {
+    margin-top: 37px;
+  }
+
+  .foods-btn {
+      margin-top: 14px;
+
+  }
+
+  .skin-btn {
+
+    margin-top: 0;
+  }
 }
