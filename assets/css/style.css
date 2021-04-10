@@ -2,17 +2,33 @@
 html {
   scroll-behavior: smooth;
 }
+body {
+  position: relative;
+  background-color: #D7CBBD;
+  font-family: "Special Elite", sans-serif;
+}
+
+header {
+  font-family: "Special Elite";
+}
 
 li {
   cursor: text;
   padding: 10px;
 }
 
-body {
-  position: relative;
-  background-color: #D7CBBD;
+h1 {
   font-family: "Special Elite", sans-serif;
 }
+
+h2, h5 {
+  font-family: "Merriweather", sans-serif;
+}
+
+h4 {
+  padding: 20px 20px 20px 0;
+}
+
 
 /* Colours */
 
@@ -81,19 +97,6 @@ body {
 }
 
 
-/* Fonts */
-
-
-
-h2, h5 {
-  font-family: "Merriweather", sans-serif;
-}
-
-h4 {
-  padding: 20px 20px 20px 0;
-}
-
-
 /* Nav Bar */
 
 .navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
@@ -102,12 +105,6 @@ h4 {
 
 .dropdown-item.active, .dropdown-item:active {
    background-color: #a3b19c;
-}
-
-
-
-header {
-  font-family: "Special Elite";
 }
 
 .navbar-brand {
@@ -132,10 +129,6 @@ header {
 
 .card {
   border: 0;
-}
-
-h1 {
-  font-family: "Special Elite", sans-serif;
 }
 
 .main-body {
@@ -179,8 +172,6 @@ h1 {
 
 .skincare-background {
   background-image: url("../images/Elements/skincare-bg.png");
-  background-position: relative;
-  background-repeat: no-repeat;
   background-size: cover;
 }
 
