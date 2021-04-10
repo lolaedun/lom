@@ -1,177 +1,147 @@
-@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Special+Elite&display=swap');  
-
-html{
-
-    scroll-behavior: smooth;
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Special+Elite&display=swap');
+html {
+  scroll-behavior: smooth;
 }
 
-li{
-        cursor: text;
-    }
+li {
+  cursor: text;
+}
 
 
-
-
-/* .........................................Colours */
+/* Colours */
 
 body {
-
-    background-color: #D7CBBD;
+  background-color: #D7CBBD;
 }
-.img-thumbnail {
 
-    background-color: #D7CBBD;
+.img-thumbnail {
+  background-color: #D7CBBD;
 }
 
 .veg-group {
-
-    background-color: #c5d9a5;
+  background-color: #c5d9a5;
 }
 
 .fruit-group {
-
-    background-color:#e3a479;
+  background-color: #e3a479;
 }
-.snack-group {
 
-    background-color: #755947;
-    color: seashell;
+.snack-group {
+  background-color: #755947;
+  color: seashell;
 }
 
 .meat-group {
-
-    background-color: #a3b19c;
+  background-color: #a3b19c;
 }
 
 .sugars-group {
-    background-color: #c6ce93;
+  background-color: #c6ce93;
 }
 
 .herbs-group {
-
-    background-color: #e3a479;
+  background-color: #e3a479;
 }
 
 .cereals-group {
-
-    background-color: #c5d9a5;
+  background-color: #c5d9a5;
 }
 
 .grains-group {
-
-    background-color: #a3b19c;
+  background-color: #a3b19c;
 }
 
 .breakfast {
-    background-color: #755947;
-    color: seashell;
+  background-color: #755947;
+  color: seashell;
 }
 
 .lunch-box {
-    background-color: #755947;
-    color: seashell;
+  background-color: #755947;
+  color: seashell;
 }
 
 .snack {
-    background-color: #755947;
-    color: seashell;
-
+  background-color: #755947;
+  color: seashell;
 }
 
 .brown-bg {
-    background-color: #755947;
-    color: seashell;
-    border: 1px solid rgba(255,255,255, 0.3);
+  background-color: #755947;
+  color: seashell;
+  border: 1px solid rgba(255, 255, 255, 0.3);
 }
 
 .plain-bg {
-    border: 1px solid rgba(255,255,255, 0.3);
+  border: 1px solid rgba(255, 255, 255, 0.3);
 }
 
-/* .........................................Fonts */
+
+/* Fonts */
 
 body {
-
-    font-family: "Special Elite", sans-serif;
+  font-family: "Special Elite", sans-serif;
 }
 
 h2 {
-
-    font-family: "Merriweather", sans-serif;
+  font-family: "Merriweather", sans-serif;
 }
+
 h4 {
-    padding: 20px 20px 20px 0px;
+  padding: 20px 20px 20px 0;
 }
 
 
+/* Nav Bar */
 
-/* .........................................Nav Bar */
 header {
-
-   
-    font-family: "Special Elite";
+  font-family: "Special Elite";
 }
 
 .navbar-brand {
-
-    max-height: 80px;
-    padding: 0px;
+  max-height: 80px;
+  padding: 0;
 }
 
 .navbar-text {
-    font-weight: 900;
-    font-size: 30px;
-
+  font-weight: 900;
+  font-size: 30px;
 }
-
 
 .logo {
-    
-    
-    font-size: 80px;   
-    transition: all .5s ease-in-out;
-    -moz-transition: all .5s ease-in-out;
-    -webkit-transition: all .5s ease-in-out;
-
-
+  font-size: 80px;
+  transition: all .5s ease-in-out;
+  -moz-transition: all .5s ease-in-out;
+  -webkit-transition: all .5s ease-in-out;
 }
 
-/* .........................................Home Section */
+
+/* Home Section */
 
 .card {
-
-    border: 0px;
+  border: 0;
 }
 
-
-h1{
-
-    font-family: "Special Elite" , sans-serif;
+h1 {
+  font-family: "Special Elite", sans-serif;
 }
-
 
 .main-body {
-
-    font-family: "Merriweather" , sans-serif;
-    text-align: center;
-    padding: 40px;
-    margin-top: 140px;
-    
+  font-family: "Merriweather", sans-serif;
+  text-align: center;
+  padding: 40px;
+  margin-top: 140px;
 }
 
-
-
 .main-body-title {
-    font-family: "Special Elite" , sans-serif;;
-    margin-top: 90%;
+  font-family: "Special Elite", sans-serif;
+  ;
+  margin-top: 90%;
 }
 
 .card-text {
-
-    font-family: "Merriweather", sans-serif;
+  font-family: "Merriweather", sans-serif;
 }
-
-
 
 .centered {
   position: absolute;
@@ -181,78 +151,61 @@ h1{
 }
 
 .skin-btn {
-
-    margin-top: 10px;
+  margin-top: 10px;
 }
 
 .foods-btn {
-
-    margin-top: 45px;
+  margin-top: 45px;
 }
 
 .routine-btn {
-
-    margin-top: 45px;
+  margin-top: 45px;
 }
 
 
-/* .........................................Skincare */
+/* Skincare */
 
-.skincare-background{
-
-    background-image: url("../images/Elements/skincare-bg.png");
-    
-    background-position: relative;
-    background-repeat: no-repeat;
-    background-size: cover; 
-   
-    
+.skincare-background {
+  background-image: url("../images/Elements/skincare-bg.png");
+  background-position: relative;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .problem-areas {
-
-    margin-top: 60px;
-    padding-left: 40px;
+  margin-top: 60px;
+  padding-left: 40px;
 }
 
 #skincare {
-
-    margin-top: 50px;
+  margin-top: 50px;
 }
 
-/* .........................................Safe Foods */
 
+/* Safe Foods */
 
-
-
-#safefoods{
-
-    margin: 50px;
+#safefoods {
+  margin: 50px;
 }
 
-#mealplans{
-
-    padding: 60px;
-    
+#mealplans {
+  padding: 60px;
 }
-/* .........................................Routine */
+
+
+/* Routine */
 
 .routine {
-
-    background-color: #a3b19c;
-    padding: 40px; 
-    
+  background-color: #a3b19c;
+  padding: 40px;
 }
 
 .routine-lists {
-
-    list-style-type: none;
-    margin: 0px;
-    padding: 0px;
-
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 
 .routine-lists li {
-
-    padding: 5px;
+  padding: 5px;
 }
