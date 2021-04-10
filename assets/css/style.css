@@ -8,12 +8,15 @@ li {
   padding: 10px;
 }
 
+body {
+  position: relative;
+  background-color: #D7CBBD;
+  font-family: "Special Elite", sans-serif;
+}
 
 /* Colours */
 
-body {
-  background-color: #D7CBBD;
-}
+
 
 .img-thumbnail {
   background-color: #D7CBBD;
@@ -80,9 +83,7 @@ body {
 
 /* Fonts */
 
-body {
-  font-family: "Special Elite", sans-serif;
-}
+
 
 h2 {
   font-family: "Merriweather", sans-serif;
@@ -94,6 +95,12 @@ h4 {
 
 
 /* Nav Bar */
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    background-color: #a3b19c;
+}
+
+
 
 header {
   font-family: "Special Elite";
