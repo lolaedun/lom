@@ -42,16 +42,11 @@ h4 {
   background-color: #c5d9a5;
 }
 
-.fruit-group {
+.fruit-group, .herbs-group {
   background-color: #e3a479;
 }
 
-.snack-group {
-  background-color: #755947;
-  color: #fff5ee;
-}
-
-.meat-group {
+.meat-group, .grains-group {
   background-color: #a3b19c;
 }
 
@@ -59,29 +54,11 @@ h4 {
   background-color: #c6ce93;
 }
 
-.herbs-group {
-  background-color: #e3a479;
-}
-
 .cereals-group {
   background-color: #c5d9a5;
 }
 
-.grains-group {
-  background-color: #a3b19c;
-}
-
-.breakfast {
-  background-color: #755947;
-  color: #fff5ee;
-}
-
-.lunch-box {
-  background-color: #755947;
-  color: #fff5ee;
-}
-
-.snack {
+.breakfast, .lunch-box, .snack, .snack-group {
   background-color: #755947;
   color: #fff5ee;
 }
@@ -99,12 +76,8 @@ h4 {
 
 /* Nav Bar */
 
-.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+.dropdown-item.active, .dropdown-item:active, .navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
     background-color: #a3b19c;
-}
-
-.dropdown-item.active, .dropdown-item:active {
-   background-color: #a3b19c;
 }
 
 .navbar-brand {
@@ -140,7 +113,6 @@ h4 {
 
 .main-body-title {
   font-family: "Special Elite", sans-serif;
-  ;
   margin-top: 90%;
 }
 
