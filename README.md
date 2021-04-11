@@ -46,9 +46,9 @@ You can view the live website here: https://lolaedun.github.io/lom/
 
 ### **User Stories**
 
+* As a user, I would like to get information on following the daily skincare routine in order to maintain consistency.
 * As a user, I would like to quickly find out what foods are safe to give the little one.
 * As a user, I want to find ideas on meals I can make because of allergies.
-* As a user, I would like to follow the daily routine to maintain consistency.
 * As a user, I would like to gain a quick understanding of how to look after severe eczema and manage flare ups.
 * As a user, I want to be able to have a point of reference for anytime there is uncertainty about caring for the little one.
 
@@ -173,6 +173,34 @@ Here I have used flexbox from bootstrap to create the 3 sections so they are mob
 
 ### **Accessing Information Quickly**
 
+#### User story: As a user, I would like to get information on following the daily skincare routine in order to maintain consistency.
+* **Plan**  
+My plan is to create a skincare section that highlights the problem areas to look for as well as daily routines for 
+maintenance and managing flare ups.
+
+* **Implementation**  
+
+I added a nav bar with scroll spy to quickly move to various sections.
+I also added 3 main cards with buttons on the top section of home page which provide the same function.
+I added a image background to distinguish this section from the others and grouped the treatments and daily care into
+different list groups with short notes for extra information.
+
+* **Test**
+I clicked on the skincare "lets go" button on the home page and it scrolls down to the correct section.
+I noticed it wasn't always clear where the user was on the nav bar, so I added a highlight to display the active 
+menu section. This helps the user understand where they are in the site.
+I clicked on the skincare menu item in the nav bar and it scrolls down to the correct section.
+
+* **Result**
+
+Skincare section is displaying as planned and the links work well.
+Tested this section on various browsers and devices and it is reponsive and user friendly.
+Adding the highlights to the nav bar menu improved the user experience.
+
+* **Verdict**  
+
+The test has passed all the criteria and works like planned.
+
 #### User story: As a user, I would like to quickly find out what foods are safe to give the little one.
 
 * **Plan**  
@@ -187,8 +215,7 @@ This way the user can quickly get to information much faster and with ease.
 
 * **Implementation**  
 
-I added a nav bar with scroll spy to quickly move to various sections.
-I also added 3 main buttons on the top section of home page which provide the same function.
+
 Food items are highlighted on mouse hover for User Interaction.
  
 
@@ -198,8 +225,6 @@ Food items are highlighted on mouse hover for User Interaction.
 I clicked on the safe foods "lets go" button and it scrolls down to the correct section.
 On the nav bar I clicked on "Diet" and selected "safe foods" and it scrolls down to the correct section.
 
-I noticed it wasn't always clear where the user was on the nav bar, so I added a highlight to display the active 
-menu section. This helps the user understand where they are in the site.
 
 I also tested to make sure the food groups collapse and are responsive on smaller devices.
 
@@ -207,7 +232,7 @@ I also tested to make sure the food groups collapse and are responsive on smalle
 
 Safe foods section is displaying as planned and the links work well.
 Tested this section on various browsers and devices and it is reponsive and user friendly.
-Adding the highlights to the nav bar menu and to the foods list improved the user experience.
+Adding the highlights to the foods list improved the user experience.
 
 
 * **Verdict**
