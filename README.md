@@ -213,6 +213,31 @@ Adding the highlights to the nav bar menu and to the foods list improved the use
 * **Verdict**
 The test has passed all the criteria and works like planned.
 
+## **Bugs**
+
+### **Sample Meal Plan Not Responsive**
+
+* **Bug**  
+The supper section on sample meal plan was not being responsive
+
+* **Fix**       
+I changed the flex classes on the div and it is seems to be responding well to different screen sizes.
+
+* **Verdict**    
+Sample Meal Plan is now working as planned. 
+
+### **Sample Meal Plan Not Responsive**
+
+* **Bug**  
+The Home button on the nav bar is not being highlighted when active
+
+* **Fix**       
+to be fixed..
+
+* **Verdict**    
+tba.
+
+
 ## **Deployment**
 
 This project was deployed via GitHub by executing the following steps.
