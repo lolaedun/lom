@@ -46,7 +46,7 @@ You can view the live website here: https://lolaedun.github.io/lom/
 
 ### **User Stories**
 
-* As a user, I would like to find out if it's ok to give the little one a certain food item.
+* As a user, I would like to quickly find out what foods are safe to give the little one.
 * As a user, I want to find ideas on meals I can make because of allergies.
 * As a user, I would like to follow the daily routine to maintain consistency.
 * As a user, I would like to gain a quick understanding of how to look after severe eczema and manage flare ups.
@@ -169,9 +169,49 @@ Here I have used flexbox from bootstrap to create the 3 sections so they are mob
 - This project uses HTML, CSS and JavaScript programming languages.
 
 
-## Testing
+## **Testing**
 
-to be updated soon....
+### **Accessing Information Quickly**
+
+#### User story: As a user, I would like to quickly find out what foods are safe to give the little one.
+
+* **Plan**  
+I want to create a section on the website that lists all the current foods that are safe for the little one to eat.
+I will divide the foods into different groups to make it easy for the user to quickly read and find the information.
+My first plan was to have different pages for each section but I soon realised this would make it more cumbersome for 
+the user to click through each page.
+
+Therefore after creating a one-page site the user can easily click on a button to quickly scroll down to the required sections.
+This way the user can quickly get to information much faster and with ease.
+
+
+* **Implementation**  
+
+I added a nav bar with scroll spy to quickly move to various sections.
+I also added 3 main buttons on the top section of home page which provide the same function.
+Food items are highlighted on mouse hover for User Interaction.
+ 
+
+
+* **Test**  
+
+I clicked on the safe foods "lets go" button and it scrolls down to the correct section.
+On the nav bar I clicked on "Diet" and selected "safe foods" and it scrolls down to the correct section.
+
+I noticed it wasn't always clear where the user was on the nav bar, so I added a highlight to display the active 
+menu section. This helps the user understand where they are in the site.
+
+I also tested to make sure the food groups collapse and are responsive on smaller devices.
+
+* **Result**  
+
+Safe foods section is displaying as planned and the links work well.
+Tested this section on various browsers and devices and it is reponsive and user friendly.
+Adding the highlights to the nav bar menu and to the foods list improved the user experience.
+
+
+* **Verdict**
+The test has passed all the criteria and works like planned.
 
 ## **Deployment**
 
