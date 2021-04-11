@@ -226,7 +226,7 @@ I changed the flex classes on the div and it is seems to be responding well to d
 * **Verdict**    
 Sample Meal Plan is now working as planned. 
 
-### **Sample Meal Plan Not Responsive**
+### **Highlighted Nav Bar not working properly**
 
 * **Bug**  
 The Home button on the nav bar is not being highlighted when active
