@@ -95,6 +95,7 @@ h4 {
 .logo {
   font-size: 1.7em;
   color: #a3b19c;
+  -o-transition: all .5s ease-in-out;
   transition: all .5s ease-in-out;
   -moz-transition: all .5s ease-in-out;
   -webkit-transition: all .5s ease-in-out;
@@ -127,7 +128,9 @@ h4 {
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
 }
 
 .skin-btn {
