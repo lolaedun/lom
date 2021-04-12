@@ -240,17 +240,17 @@ The test has passed all the criteria and works like planned.
 
 ## **Bugs**
 
-### **Gap on far right of screen on mobile **
+### **Gap on far right of screen on mobile**
 
 * **Bug**  
 Theres a gap on the far right of the screen in mobile view. Especially visible in the skincare section.
 
 * **Fix**       
-I have added a temporary fix for this to the body and html using overflow. I will look to see if there's 
-something else in my code causing this problem.
+I changed the div classes and margins on sample routine and skincare section and it seems to have removed
+the gap on all smaller devices except for iphone5.
 
 * **Verdict**    
-No more gap on far right of screen in mobile 
+No more gap on far right of screen in mobile except on iphone5.
 
 ### **Sample Meal Plan Not Responsive**
 
