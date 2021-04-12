@@ -312,6 +312,7 @@ I have used the following websites to gather ideas and information for the overa
  
 
 I have used [Canva](https://www.canva.com/) to create all my images and graphics.
+I also used [ColourLovers](https://www.colourlovers.com/palettes) to find inspiration for my colour palette.
 
 
 ### Acknowledgements
