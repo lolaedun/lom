@@ -247,10 +247,11 @@ Theres a gap on the far right of the screen in mobile view. Especially visible i
 
 * **Fix**       
 I changed the div classes and margins on sample routine and skincare section and it seems to have removed
-the gap on all smaller devices except for iphone5.
+the gap on all smaller devices except for iphone5. For the iphone 5 I added an overflow to the html and body
+tags
 
 * **Verdict**    
-No more gap on far right of screen in mobile except on iphone5.
+No more gap on far right of screen in mobile.
 
 ### **Sample Meal Plan Not Responsive**
 

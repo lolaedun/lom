@@ -1,15 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Special+Elite&display=swap');
 
-/*html, body { overflow-x: hidden; 
-} */
 
 html {
   scroll-behavior: smooth;
+  overflow-x: hidden;
 }
 body {
   position: relative;
   background-color: #D7CBBD;
   font-family: "Special Elite", sans-serif;
+  overflow-x: hidden;
 }
 
 li {
