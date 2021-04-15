@@ -27,7 +27,7 @@ finally be able to answer all those repetitive questions you keep getting asked!
 Thank you for visiting my project!  
 If you have any feedback or questions, head over to my GitHub contact details and feel free to reach out to me.
 
-You can view the live website here: https://lolaedun.github.io/lom/
+You can view the live website [HERE](https://lolaedun.github.io/lom/)
 
 
 --- 
