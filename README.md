@@ -82,7 +82,7 @@ You can find my wireframes below:
  
 ### Fonts
 
-- Merriweather as the headline text and Special Elite as body text. I particularly like the vintage
+- **Merriweather** as the headline text and **Special Elite** as body text. I particularly like the vintage
 typewriter look  for the body
 
 
