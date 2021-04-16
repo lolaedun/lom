@@ -111,7 +111,8 @@ typewriter look  for the body
 For the navbar I have used Boostrap to create a responsive navbar. 
 There is a hamburger icon for mobile devices to make it more user-friendly. 
 I have implemented the scroll spy option from bootstrap to help the user navigate easily to each section of the page. 
-For this to work properly I have fixed the navbar on the top of the page.
+For this to work properly I have fixed the navbar on the top of the page. I have also added a JavaScript function to collapse
+the hamburger bar once a selection has been made for better user experience on a smaller device.
 The navigation bar features a logo on the far left, which links to the home page of the site.
 
 #### Home Section
