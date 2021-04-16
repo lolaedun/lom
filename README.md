@@ -48,7 +48,7 @@ You can view the live website [HERE](https://lolaedun.github.io/lom/)
 
 * As a user, I would like to get information on following the daily skincare routine in order to maintain consistency.
 * As a user, I would like to quickly find out what foods are safe to give the little one.
-* As a user, I want to find ideas on meals I can make because of allergies.
+* As a user, I want ideas on meals I can make because of allergies.
 * As a user, I would like to gain a quick understanding of how to look after severe eczema and manage flare ups.
 * As a user, I want to be able to have a point of reference for anytime there is uncertainty about caring for the little one.
 
@@ -176,13 +176,12 @@ Here I have used flexbox from bootstrap to create the 3 sections so they are mob
 
 #### User story: As a user, I would like to get information on following the daily skincare routine in order to maintain consistency.
 * **Plan**  
-My plan is to create a skincare section that highlights the problem areas to look for as well as daily routines for 
+My plan is to create a skincare section that highlights the problem areas on the skin to watch out for. I would also like to include daily routines for 
 maintenance and managing flare ups.
 
 * **Implementation**  
-
-I added a nav bar with scroll spy to quickly move to various sections.
-I also added 3 main cards with buttons on the top section of home page which provide the same function.
+I added a nav bar with scroll spy to quickly move to various sections and a JavaScript fucntion to collapse the menu on smaller devices after a selection has been made.
+I also added 3 main cards with buttons on the top section of home page which provide the same function of scrolling quickly to the desired section.
 I added a image background to distinguish this section from the others and grouped the treatments and daily care into
 different list groups with short notes for extra information.
 
@@ -193,13 +192,11 @@ menu section. This helps the user understand where they are in the site.
 I clicked on the skincare menu item in the nav bar and it scrolls down to the correct section.
 
 * **Result**
-
 Skincare section is displaying as planned and the links work well.
 Tested this section on various browsers and devices and it is reponsive and user friendly.
 Adding the highlights to the nav bar menu improved the user experience.
 
 * **Verdict**  
-
 The test has passed all the criteria and works like planned.
 
 #### User story: As a user, I would like to quickly find out what foods are safe to give the little one.
@@ -208,35 +205,46 @@ The test has passed all the criteria and works like planned.
 I want to create a section on the website that lists all the current foods that are safe for the little one to eat.
 I will divide the foods into different groups to make it easy for the user to quickly read and find the information.
 My first plan was to have different pages for each section but I soon realised this would make it more cumbersome for 
-the user to click through each page.
-
-Therefore after creating a one-page site the user can easily click on a button to quickly scroll down to the required sections.
+the user to click through each page.Therefore after creating a one-page site the user can easily click on a button to quickly scroll down to the required sections.
 This way the user can quickly get to information much faster and with ease.
 
 
 * **Implementation**  
-
-
 Food items are highlighted on mouse hover for User Interaction.
  
 
 
 * **Test**  
-
 I clicked on the safe foods "lets go" button and it scrolls down to the correct section.
 On the nav bar I clicked on "Diet" and selected "safe foods" and it scrolls down to the correct section.
-
-
 I also tested to make sure the food groups collapse and are responsive on smaller devices.
 
 * **Result**  
-
 Safe foods section is displaying as planned and the links work well.
 Tested this section on various browsers and devices and it is reponsive and user friendly.
 Adding the highlights to the foods list improved the user experience.
 
 
 * **Verdict**
+The test has passed all the criteria and works like planned.
+
+#### User story: As a user, I want ideas on meals I can make because of allergies.
+
+* **Plan**  
+My plan is to create a sample menu plan with some simple meal ideas to spark some imagination. I would also like it to be responsive for smaller devices.
+
+* **Implementation**  
+I originally created this using bootstrap tables but soon discovered it wasn't responsive on a small device so decided to recreate the meal plan using flexbox.
+I delibrately added this mealplan to the safe foods section as they are relatable to each other.
+
+* **Test**  
+It display full size on desktops and laptops.
+The supper section stacks well on top of each other and the other rows respond well to change in sreen size on smaller devices.
+
+* **Result**  
+The Mealplan displays well across all devices.
+
+* **Verdict**    
 The test has passed all the criteria and works like planned.
 
 ## **Bugs**
