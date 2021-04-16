@@ -273,16 +273,16 @@ I changed the flex classes on the div and it is seems to be responding well to d
 * **Verdict**    
 Sample Meal Plan is now working as planned. 
 
-### **Nav Bar Scrollspy scrolls past title section**
+### **Sample Routine Section cuts off on mobile**
 
 * **Bug**  
-Scrollspy is stopping behind the nav bar and covering the section title
+The text in the routine section gets cropped off on mobile on both left and right sides
 
 * **Fix**       
-to be fixed..
+changed the margins around this section.
 
 * **Verdict**    
-tba.
+Routine Section displays correctly on mobile.
 
 
 ## **Deployment**
