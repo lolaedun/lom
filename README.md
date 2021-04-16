@@ -273,10 +273,10 @@ I changed the flex classes on the div and it is seems to be responding well to d
 * **Verdict**    
 Sample Meal Plan is now working as planned. 
 
-### **Highlighted Nav Bar not working properly**
+### **Nav Bar Scrollspy scrolls past title section**
 
 * **Bug**  
-The Home button on the nav bar is not being highlighted when active
+Scrollspy is stopping behind the nav bar and covering the section title
 
 * **Fix**       
 to be fixed..
