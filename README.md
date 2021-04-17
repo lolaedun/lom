@@ -328,8 +328,9 @@ I also used [ColourLovers](https://www.colourlovers.com/palettes) to find inspir
 ### Acknowledgements
 
 First of all, I would like to thank my lovely mentor Simen ([Eventyret_mentor](https://github.com/Eventyret)) for guiding me throughout this project. 
-He helped me to make my project a breeze to achieve. 
-He gave me a lot of tips in order to improve my code and to implement some other features in order to make my website more user friendly. 
+He helped me to make my project a breeze to achieve and love his sense of humour too! He definately kept my spirits up after a long day. 
+He gave me a lot of tips in order to improve my code and to implement some other features in order to make my website more user friendly. I look 
+forward to our chats!
 
 
 I would also like to thank my wonderful little human for inspiring me to make this website for him.
