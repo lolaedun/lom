@@ -4,6 +4,7 @@
 html {
   scroll-behavior: smooth;
   overflow-x: hidden;
+ 
 }
 body {
   position: relative;
@@ -186,7 +187,7 @@ h4 {
   padding: 5px;
 }
 
-@media (max-width: 768px) {
+@media (min-width: 576px) {
   .routine-btn {
     margin-top: 37px;
   }
