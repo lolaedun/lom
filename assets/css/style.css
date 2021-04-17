@@ -1,11 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Special+Elite&display=swap');
-
-
 html {
   scroll-behavior: smooth;
   overflow-x: hidden;
- 
 }
+
 body {
   position: relative;
   background-color: #D7CBBD;
@@ -22,7 +20,9 @@ h1 {
   font-family: "Special Elite", sans-serif;
 }
 
-h2, h5, h4 {
+h2,
+h5,
+h4 {
   font-family: "Merriweather", sans-serif;
 }
 
@@ -33,8 +33,6 @@ h4 {
 
 /* Colours */
 
-
-
 .img-thumbnail {
   background-color: #D7CBBD;
 }
@@ -43,11 +41,13 @@ h4 {
   background-color: #c5d9a5;
 }
 
-.fruit-group, .herbs-group {
+.fruit-group,
+.herbs-group {
   background-color: #e3a479;
 }
 
-.meat-group, .grains-group {
+.meat-group,
+.grains-group {
   background-color: #a3b19c;
 }
 
@@ -59,7 +59,10 @@ h4 {
   background-color: #c5d9a5;
 }
 
-.breakfast, .lunch-box, .snack, .snack-group {
+.breakfast,
+.lunch-box,
+.snack,
+.snack-group {
   background-color: #755947;
   color: #fff5ee;
 }
@@ -77,16 +80,22 @@ h4 {
 
 /* Nav Bar */
 
-.dropdown-item.active, .dropdown-item:active, .navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
-    background-color: #a3b19c;
+.dropdown-item.active,
+.dropdown-item:active,
+.navbar-light .navbar-nav .active>.nav-link,
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .nav-link.show,
+.navbar-light .navbar-nav .show>.nav-link {
+  background-color: #a3b19c;
 }
 
 .navbar-brand {
   max-height: 80px;
   padding: 0;
 }
+
 .navbar-light .navbar-brand {
-    color: #755947
+  color: #755947
 }
 
 .logo {
@@ -125,8 +134,8 @@ h4 {
   top: 50%;
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
-      -ms-transform: translate(-50%, -50%);
-          transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
 }
 
 .skin-btn {
@@ -191,14 +200,10 @@ h4 {
   .routine-btn {
     margin-top: 37px;
   }
-
   .foods-btn {
     margin-top: 14px;
-
   }
-
   .skin-btn {
-
     margin-top: 0;
   }
 }
